@@ -16,7 +16,7 @@ fn main() {
         "user_created".to_owned(),
         UserCreatedEventMessage {
             user_id: "1".to_owned(),
-            user_name: "12950004y-Amir".to_owned(),
+            user_name: "2406359475-Amir".to_owned(),
         },
     );
 
@@ -24,7 +24,7 @@ fn main() {
         "user_created".to_owned(),
         UserCreatedEventMessage {
             user_id: "2".to_owned(),
-            user_name: "12950004y-Di".to_owned(),
+            user_name: "2406359475-Di".to_owned(),
         },
     );
 
@@ -32,7 +32,7 @@ fn main() {
         "user_created".to_owned(),
         UserCreatedEventMessage {
             user_id: "3".to_owned(),
-            user_name: "12950004y-Cia".to_owned(),
+            user_name: "2406359475-Cia".to_owned(),
         },
     );
 
@@ -40,7 +40,7 @@ fn main() {
         "user_created".to_owned(),
         UserCreatedEventMessage {
             user_id: "4".to_owned(),
-            user_name: "12950004y-Dira".to_owned(),
+            user_name: "2406359475-Dira".to_owned(),
         },
     );
 
@@ -48,7 +48,7 @@ fn main() {
         "user_created".to_owned(),
         UserCreatedEventMessage {
             user_id: "5".to_owned(),
-            user_name: "12950004y-Emir".to_owned(),
+            user_name: "2406359475-Emir".to_owned(),
         },
     );
 }
